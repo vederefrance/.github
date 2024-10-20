@@ -9,9 +9,6 @@ Founded in 2024, **Vedere** is an innovative platform designed to connect emergi
 - **User-Friendly Interface**: Built with React Native, Vedere offers a smooth and intuitive experience for both photographers and clients, ensuring that users can easily navigate the platform.
 - **Location-Based Services**: Utilizing Firebase for real-time geolocation, Vedere helps clients discover photographers in their immediate vicinity, streamlining the booking process.
 
-## Our Team
-The Vedere team consists of a diverse group of passionate individuals, including photographers, developers, and marketing professionals. Together, we are dedicated to fostering a community where creativity thrives and opportunities abound.
-
 ## Our Mission and Values
 At Vedere, we believe in the power of visuals to tell stories and inspire. Our mission is to empower young photographers by providing them with a platform to showcase their talents while helping individuals enhance their online presence. We are committed to:
 - **Inclusivity**: Ensuring our services are accessible to everyone, regardless of their budget.
@@ -19,18 +16,11 @@ At Vedere, we believe in the power of visuals to tell stories and inspire. Our m
 - **Community Engagement**: Building a supportive network for photographers and clients alike.
 
 ## Headquarters
-- **Location**: [City, Country]
+- **Location**: Strasbourg, France
 - **Founded**: 2024
-
-## Company Size
-- **Employees**: 11-50
 
 ## Contact Us
 Join Vedere on this exciting journey to redefine the photography landscape! Connect with us and stay updated through our social media channels.
 
 - **Website**: [Vedere Official Site](#)
 - **Instagram**: [Vedere on Instagram](#)
-- **LinkedIn**: [Vedere on LinkedIn](#)
-
-## Industry
-- **Sector**: Photography and Visual Arts
